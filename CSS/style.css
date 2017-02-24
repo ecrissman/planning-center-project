@@ -97,7 +97,7 @@ form {
     color: #ff0000; }
 
 .container {
-  max-width: 100em;
+  max-width: 40rem;
   margin-right: auto;
   margin-left: auto;
   padding: 2rem; }
@@ -177,10 +177,7 @@ form {
     width: 50%; }
 
   .s8 {
-    width: 75%; }
-
-  .s12 {
-    width: 100%; } }
+    width: 75%; } }
 @media screen and (min-width: 980px) {
   .m3 {
     width: 33.3333333%; }
@@ -192,9 +189,6 @@ form {
     width: 50%; }
 
   .m8 {
-    width: 75%; }
-
-  .m12 {
-    width: 100%; } }
+    width: 75%; } }
 
 /*# sourceMappingURL=style.css.map */

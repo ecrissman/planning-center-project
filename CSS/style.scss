@@ -128,7 +128,7 @@ form {
 }
 
 .container {
-  max-width: 100em;
+  max-width: 40rem;
   margin-right: auto;
   margin-left: auto;
   padding: 2rem;
@@ -215,7 +215,6 @@ form {
   .s4 { width: 25%; }
   .s6 { width: 50%; }
   .s8 { width: 75%; }
-  .s12 { width: 100%; }
 }
 
 @media screen and (min-width: 980px) {
@@ -223,7 +222,6 @@ form {
   .m4 { width: 25%; }
   .m6 { width: 50%; }
   .m8 { width: 75%; }
-  .m12 { width: 100%; }
 }
 
 
